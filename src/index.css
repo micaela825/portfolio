@@ -1,0 +1,86 @@
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-family: "Cormorant Garamond", serif;
+}
+
+/* navbar */
+
+.navbar {
+  background-color: white;
+  border: none;
+  color: slategray;
+  font-size: 24px;
+  margin-top: 2vh;
+}
+
+.navbar #brand {
+  color: rgb(19, 183, 248);
+  font-size: 40px;
+  font-weight: 900;
+  font-family: "Cormorant Garamond", serif;
+  font-style: bold;
+}
+
+.navbar a:active {
+  top: 2px;
+}
+
+/* home */
+.home .homeText {
+  margin-top: 10vh;
+  margin-bottom: 3vh;
+}
+
+.homeText h4 {
+  font-family: "HelveticaNeue-Light", Helvetica, sans-serif;
+}
+
+.home img {
+  height: 70vh;
+  width: 100vw;
+}
+
+/* portfolio */
+
+.row img {
+  height: 24vh;
+  width: auto;
+  /* padding-right: 10%; */
+  margin-top: 10%;
+  padding: 3%;
+}
+
+.row {
+  margin-bottom: 5vh;
+  margin-top: 5vh;
+}
+
+#topRow {
+  margin-top: 13vh;
+}
+
+.desc h3 {
+  font-family: "Cormorant Garamond", serif;
+  font-size: 36px;
+  margin-bottom: 3vh;
+}
+
+.desc {
+  padding-right: 3vw;
+  font-family: "HelveticaNeue-Light", Helvetica, sans-serif;
+}
+
+.desc h5 {
+  font-size: 20px;
+}
+
+#fourthRow {
+  margin-top: 10vh;
+  margin-bottom: 10vh;
+}
+
+#fourthRow h3 {
+  font-size: 30px;
+}
