@@ -8,7 +8,7 @@ class Portfolio extends Component {
         <Grid>
           <Row className="row" id="topRow">
             <Col xs={12} sm={4}>
-              <img alt="screen shot" src="/jungle.png" />
+              <img alt="screen shot" src="/Jungle.png" />
             </Col>
 
             <Col className="desc" align="left" xs={12} smOffset={1} sm={7}>
